@@ -39,7 +39,7 @@ public class Ch2OutputAndEscape {
         
         // \" -> "
         
-        System.out.println("She said \"Java is the best!! \"");
+        System.out.println("She said \"Java is the best!!\"");
         
         // \' -> '
         System.out.println("\'");
